@@ -1,7 +1,7 @@
 # Личный проект «Седона» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Anastasia Zhuravleva](https://up.htmlacademy.ru/adaptive/17/user/1044605).
-* Наставник: `Неизвестно`.
+* Наставник: [Sergei Zubov](https://up.htmlacademy.ru/htmlcss/25/user/208340).
 
 ---
 
